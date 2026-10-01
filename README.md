@@ -1,2 +1,5 @@
 # MT-testing-repo
-Testing repo for MT class
+
+Testing repo for MT class.
+
+> authors: jparisu
